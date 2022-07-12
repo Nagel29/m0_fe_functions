@@ -42,7 +42,7 @@ makeFreshPesto();
 function findAverage(num1, num2) {
   var sum = num1 + num2;
   var avg = sum / 2;
-  console.log(`the average is: ${avg}.`)
+  console.log(`the average is: ${avg}.`);
 }
 
 findAverage(25, 5)
